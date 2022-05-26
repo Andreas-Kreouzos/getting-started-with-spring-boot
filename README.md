@@ -7,4 +7,6 @@ database.
 
 ![alt text](https://github.com/Andreas-Kreouzos/getting-started-with-spring-boot/blob/main/Untitled%20design%20(2).png)
 
-The course is located [here](https://amigoscode.com/p/spring-boot)
+Most important thing was that I saw in action the pattern of dependency injection, parsing
+JSON objects, and creating HTTP Requests based on CRUD (POST, GET, PUT, and DELETE).The
+course is located [here](https://amigoscode.com/p/spring-boot)
