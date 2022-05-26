@@ -5,4 +5,6 @@ amigoscode omonymous course. During this course I was delighted to be introduced
 Spring Boot by implementing REST API application which was connected on a PostgreSQL
 database.
 
+![alt text](https://github.com/Andreas-Kreouzos/getting-started-with-spring-boot/blob/main/Untitled%20design%20(2).png)
+
 The course is located [here](https://amigoscode.com/p/spring-boot)
